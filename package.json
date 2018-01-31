@@ -1,0 +1,28 @@
+{
+  "name": "asposecloud",
+  "version": "1.9.0",
+  "description": "Aspose Cloud SDK for NodeJS",
+  "main": "lib/aspose-cloud.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified! Configure in package.json\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/asposemarketplace/Aspose_for_Node.js.git"
+  },
+  "keywords": [
+    "Aspose",
+    "Cloud",
+    "Pdf",
+    "Storage",
+    "Words",
+    "Worksheet",
+    "Slides",
+    "Emails",
+    "Tasks",
+    "Imaging"
+  ],
+  "author": "Assad Mahmood Qazi <assadvirgo@gmail.com>",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
